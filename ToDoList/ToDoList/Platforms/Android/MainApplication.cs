@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace NotesApp;
+namespace ToDoList;
 
 [Application]
 public class MainApplication : MauiApplication

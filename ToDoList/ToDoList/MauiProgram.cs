@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace NotesApp;
+namespace ToDoList;
 
 public static class MauiProgram
 {

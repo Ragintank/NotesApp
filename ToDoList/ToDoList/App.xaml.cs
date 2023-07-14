@@ -1,4 +1,4 @@
-﻿namespace NotesApp;
+﻿namespace ToDoList;
 
 public partial class App : Application
 {
